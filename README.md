@@ -6,12 +6,12 @@
 
 <table>
 <tr>
-<td width="40%" align="center">
+<td width="50%" align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvbangg&count_private=true&layout=pie&theme=dracula&hide_border=true&langs_count=8&border_radius=20)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvbangg&count_private=true&layout=donut&theme=dracula&hide_border=true&langs_count=10&border_radius=20)
 
 </td>
-<td width="60%" align="center">
+<td width="50%" align="center">
 
 ### 🛠️ Tech Stack
 
@@ -21,6 +21,7 @@
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
