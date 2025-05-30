@@ -4,7 +4,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nvbangg&show_icons=true&theme=dracula&count_private=true&hide_border=true&border_radius=20&card_width=380) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nvbangg&theme=dracula&hide_border=true&border_radius=20&card_width=380)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvbangg&count_private=true&layout=pie&theme=dracula&hide_border=true&langs_count=6&border_radius=20) <img src="https://github-profile-trophy.vercel.app/?username=nvbangg&theme=dracula&no-frame=true&column=2&row=3&margin-w=10&margin-h=20" style="vertical-align: top; margin-top: 0px;" />
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvbangg&count_private=true&layout=pie&theme=dracula&hide_border=true&langs_count=6&border_radius=20) ![Trophy](https://github-profile-trophy.vercel.app/?username=nvbangg&theme=dracula&no-frame=true&column=2&row=3&margin-w=10&margin-h=20)
 
 ### 🛠️ Tech Stack
 
@@ -14,6 +14,11 @@
 
 </div>
 
-## Visitors
+### Nhớ Follow👀 và Tặng sao⭐ nha ❤️
 
+[![Follow](https://img.shields.io/github/followers/nvbangg?label=Follow&style=social)](https://github.com/nvbangg) [![Stars](https://img.shields.io/github/stars/nvbangg/CodePTIT_Copier?style=social)](https://github.com/nvbangg/CodePTIT_Copier)
+
+![StarGuide](https://github.com/nvbangg/nvbangg/blob/main/star.gif)
+
+### Visitors
 ![Visitors](https://profile-counter.glitch.me/nvbangg/count.svg)
