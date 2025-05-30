@@ -14,11 +14,9 @@
 
 </div>
 
-### Nhớ Follow👀 và Tặng sao⭐ nha ❤️
+### Nhớ Follow👀 và Tặng sao⭐ nha❤️ 
 
-[![Follow](https://img.shields.io/github/followers/nvbangg?label=Follow&style=social)](https://github.com/nvbangg) [![Stars](https://img.shields.io/github/stars/nvbangg/CodePTIT_Copier?style=social)](https://github.com/nvbangg/CodePTIT_Copier)
-
-![StarGuide](https://github.com/nvbangg/nvbangg/blob/main/star.gif)
+![StarGuide](https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star.gif)
 
 ### Visitors
 ![Visitors](https://profile-counter.glitch.me/nvbangg/count.svg)
