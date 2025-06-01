@@ -16,7 +16,7 @@
 
 ### Nhớ Follow👀 và Tặng sao⭐ nha❤️ 
 
-![StarGuide](https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star.gif)
+![Gif](https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif)
 
 ### Visitors
 ![Visitors](https://profile-counter.glitch.me/nvbangg/count.svg)
