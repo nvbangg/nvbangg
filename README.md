@@ -14,9 +14,9 @@
 
 </div>
 
-### Nhớ Follow👀 và Tặng sao⭐ nha❤️ 
+
+## [![Follow](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) [![Stars](https://img.shields.io/github/stars/nvbangg?label=Stars&logo=github)](https://github.com/nvbangg)
 
 ![Gif](https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif)
 
-### Visitors
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnvbangg)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg&countColor=blue)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnvbangg)
