@@ -4,7 +4,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nvbangg&show_icons=true&theme=dracula&count_private=true&hide_border=true&border_radius=20&card_width=380) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nvbangg&theme=dracula&hide_border=true&border_radius=20&card_width=380)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvbangg&count_private=true&layout=pie&theme=dracula&hide_border=true&langs_count=6&border_radius=20) ![Trophy](https://github-profile-trophy.vercel.app/?username=nvbangg&theme=dracula&no-frame=true&column=2&row=3&margin-w=10&margin-h=20)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvbangg&count_private=true&layout=compact&theme=dracula&hide_border=true&langs_count=10&border_radius=20) ![Trophy](https://github-profile-trophy.vercel.app/?username=nvbangg&theme=dracula&no-frame=true&column=3&row=2&margin-w=0&margin-h=0)
 
 ### 🛠️ Tech Stack
 
@@ -19,4 +19,4 @@
 
 ![Gif](https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg&countColor=blue)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnvbangg)
+<!-- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg&countColor=blue)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnvbangg) -->
