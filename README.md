@@ -6,7 +6,7 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvbangg&count_private=true&layout=compact&theme=dracula&hide_border=true&langs_count=10&border_radius=20) ![Trophy](https://github-profile-trophy.vercel.app/?username=nvbangg&theme=dracula&no-frame=true&column=3&row=2&margin-w=0&margin-h=0)
 
-### 🛠️ Tech Stack
+<!-- ### 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css&logoColor=white) 
 
@@ -17,6 +17,6 @@
 
 ## [![Follow](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) [![Stars](https://img.shields.io/github/stars/nvbangg?label=Stars&logo=github)](https://github.com/nvbangg)
 
-![Gif](https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif)
+![Gif](https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif) -->
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg&countColor=blue)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnvbangg)
