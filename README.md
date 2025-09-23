@@ -19,4 +19,4 @@
 
 ![Gif](https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif)
 
-<!-- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg&countColor=blue)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnvbangg) -->
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg&countColor=blue)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnvbangg)
