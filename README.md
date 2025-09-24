@@ -1,22 +1,24 @@
-# 👋 Hi there, I'm nvbangg
-
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nvbangg&show_icons=true&theme=dracula&count_private=true&hide_border=true&border_radius=20&card_width=380) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nvbangg&theme=dracula&hide_border=true&border_radius=20&card_width=380)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvbangg&count_private=true&layout=compact&theme=dracula&hide_border=true&langs_count=10&border_radius=20) ![Trophy](https://github-profile-trophy.vercel.app/?username=nvbangg&theme=dracula&no-frame=true&column=3&row=2&margin-w=0&margin-h=0)
-
-<!-- ### 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css&logoColor=white) 
-
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-4A4A4A?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-A179DC?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-659F6A?style=for-the-badge&logo=autohotkey&logoColor=white)
-
+    <h1>👋 Hi there, I'm nvbangg</h1>
+    <a href="https://github.com/nvbangg" 
+        style="padding:10px 10px; background:snow; border-radius:20px; text-decoration:none; font-weight:600; color:black;">
+        🏠 Homepage: <span style="color:DodgerBlue;">github.com/nvbangg</span>
+    </a>
 </div>
 
-
-## [![Follow](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) [![Stars](https://img.shields.io/github/stars/nvbangg?label=Stars&logo=github)](https://github.com/nvbangg)
-
-![Gif](https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif) -->
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg&countColor=blue)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnvbangg)
+<br>
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/nvbangg?cardType=level&theme=dracula&preferLogin=true&Border=transparent" height="180" style="border-radius:20px;"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvbangg&count_private=true&layout=compact&theme=dracula&hide_border=true&langs_count=10&border_radius=20" height="180">
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvbangg&theme=dracula&hide_border=true&border_radius=20&card_width=380" height="180">
+    <img src="https://github-profile-trophy.vercel.app/?username=nvbangg&theme=dracula&no-frame=true&column=3&row=2" height="180" style="border-radius:15px;">
+</div>
+<br>
+<div align="center">
+    <a href="https://github.com/nvbangg"><img src="https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github" height="23" style="margin-right:10px; border-radius:10px;"></a>
+    <a href="https://github.com/nvbangg"><img src="https://img.shields.io/github/stars/nvbangg?label=Stars&logo=github" height="23" style="margin-right:10px; border-radius:10px;"></a>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg&countColor=blue&textColor=000000" height="23" style="border-radius:10px;">
+    <br>
+    <img src="https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif" height="150" style="border-radius:10px;">
+</div>
