@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center"> 
+    
 # 👋 Hi there, I'm nvbangg
 
 **🏠 [Homepage: github.com/nvbangg](https://github.com/nvbangg)**
@@ -9,6 +10,7 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvbangg&theme=dracula&hide_border=true&border_radius=20&card_width=380" height="150">
 <img src="https://github-profile-trophy.vercel.app/?username=nvbangg&theme=dracula&no-frame=true&column=3&row=2" height="150">
+
 </div>
 <br>
 <div align="center">
@@ -19,16 +21,3 @@
     <img src="https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif" height="100">
 </div>
 
-<div align="center">
-
-# 👋 Hi there, I'm nvbangg
-
-**🏠 [Homepage: github.com/nvbangg](https://github.com/nvbangg)**  
-
-![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nvbangg?cardType=level&theme=dracula&preferLogin=true&Border=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvbangg&count_private=true&layout=compact&theme=dracula&hide_border=true&langs_count=10&border_radius=20)  
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nvbangg&theme=dracula&hide_border=true&border_radius=20&card_width=380)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=nvbangg&theme=dracula&no-frame=true&column=3&row=2)  
-
-</div>
