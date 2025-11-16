@@ -15,9 +15,3 @@
 [![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) &nbsp; [![Stars](https://img.shields.io/github/stars/nvbangg?label=Stars&logo=github)](https://github.com/nvbangg) &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=nvbangg&countColor=blue&style=flat&labelStyle=none)<br><img src="https://nvbangg.github.io/assets/gifs/follow_star_github.gif" height="100">
 
 </div>
-
-<div align="center">
-    
-[![Windows11Lite](https://github-readme-stats.vercel.app/api/pin/?username=nvbangg&repo=Windows11Lite&theme=dracula&hide_border=true)](https://github.com/nvbangg/Windows11Lite)
-
-</div>
