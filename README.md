@@ -12,11 +12,11 @@
 
 ## Featured Repositories
 
-- [PTIT](https://github.com/nvbangg/CodePTIT): Tổng hợp Tài liệu, Bài tập lớn và Tools sử dụng khi học ở PTIT. Toàn bộ Đề và Code giải trên CodePTIT
+- **[PTIT](https://github.com/nvbangg/CodePTIT): Tổng hợp Tài liệu, Bài tập lớn và Tools sử dụng khi học ở PTIT. Toàn bộ Đề và Code giải trên CodePTIT**
     - [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Sửa lỗi dòng trống thừa khi copy trên CodePTIT. Tạo nút copy nhanh Testcase và Mã bài + Tên bài được chuẩn hóa
     - [EDAns](https://github.com/nvbangg/EDAns): Extension tự động làm nhanh ED và TOEIC
     
-- [nvbangg-tools](https://github.com/nvbangg/nvbangg-tools): A collection of my public tools
+- **[nvbangg-tools](https://github.com/nvbangg/nvbangg-tools): A collection of my public tools**
     - [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
     - [Nonstop_Audio_Only_for_Youtube_YTMusic](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic): Playing Nonstop & Audio Only on YouTube & YouTube Music
     - [Windows11Lite](https://github.com/nvbangg/Win11Lite): Scripts to build a ISO Windows 11 Lite
