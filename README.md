@@ -13,8 +13,9 @@
 ## Featured Repositories
 
 - **[PTIT](https://github.com/nvbangg/CodePTIT): Tổng hợp Tài liệu, Bài tập lớn và Tools sử dụng khi học ở PTIT. Toàn bộ Đề và Code giải trên CodePTIT**
-    - [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Sửa lỗi dòng trống thừa khi copy trên CodePTIT. Tạo nút copy nhanh Testcase và Mã bài + Tên bài được chuẩn hóa
+    - [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Sửa lỗi dòng trống thừa khi Copy trên CodePTIT. Tự động tạo File nhập sẵn Testcase trong VS Code. Hỗ trợ Nộp bài nhanh từ Clipboard
     - [EDAns](https://github.com/nvbangg/EDAns): Extension tự động làm nhanh ED và TOEIC
+    - [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-tools/blob/main/studocu_premium_generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
     
 - **[nvbangg-tools](https://github.com/nvbangg/nvbangg-tools): A collection of my public tools**
     - [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
