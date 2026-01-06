@@ -23,9 +23,5 @@
     - [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
     - [Windows11Lite](https://github.com/nvbangg/Win11Lite): Scripts to build a ISO Windows 11 Lite
     - …and many other tools
-  
-<div align="center">
 
-[![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) &nbsp; [![Stars](https://img.shields.io/github/stars/nvbangg?label=Stars&logo=github)](https://github.com/nvbangg) &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=nvbangg&countColor=blue&style=flat&labelStyle=none)<br><img src="https://nvbangg.github.io/assets/gifs/follow_star_github.gif" height="100">
-
-</div>
+[![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) &nbsp; [![Stars](https://img.shields.io/github/stars/nvbangg?label=Stars&logo=github)](https://github.com/nvbangg) &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=nvbangg&countColor=blue&style=flat&labelStyle=none)
