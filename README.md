@@ -15,13 +15,12 @@
 - **[CodePTIT](https://github.com/nvbangg/CodePTIT): Tổng hợp Đề và Code giải trên CodePTIT, Tài liệu và Tools PTIT**
     - [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Sửa lỗi dòng trống thừa khi Copy trên CodePTIT. Tự động tạo File nhập sẵn Testcase trong VS Code. Hỗ trợ Nộp bài nhanh từ Clipboard
     - [EDAns](https://github.com/nvbangg/EDAns): Extension tự động làm nhanh ED và TOEIC
-    - [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-tools/blob/main/studocu_premium_generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
+    - [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-tools/blob/main/studocu-premium-generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
     
 - **[nvbangg-tools](https://github.com/nvbangg/nvbangg-tools): A collection of my public tools**
-    - [ReVanced-Apps](https://github.com/nvbangg/ReVanced-Apps): Automatically builds ReVanced Apps after patch release
+    - [ReVanced-APK-Builder](https://github.com/nvbangg/ReVanced-APK-Builder): Automatically builds ReVanced APK apps after each patch release
     - [Nonstop_Audio_Only_for_Youtube_YTMusic](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic): Playing Nonstop & Audio Only on YouTube & YouTube Music
     - [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
-    - [Windows11Lite](https://github.com/nvbangg/Win11Lite): Scripts to build a ISO Windows 11 Lite
     - …and many other tools
 
 [![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) &nbsp; [![Stars](https://img.shields.io/github/stars/nvbangg?label=Stars&logo=github)](https://github.com/nvbangg) &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=nvbangg&countColor=blue&style=flat&labelStyle=none)
