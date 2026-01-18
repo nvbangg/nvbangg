@@ -18,7 +18,7 @@
     - [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-tools/blob/main/studocu-premium-generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
     
 - **[nvbangg-tools](https://github.com/nvbangg/nvbangg-tools): A collection of my public tools**
-    - [ReVanced-APK-Builder](https://github.com/nvbangg/ReVanced-APK-Builder): Automatically builds ReVanced APK apps after each patch release
+    - [ReVanced-APK-Builder](https://github.com/nvbangg/ReVanced-APK-Builder): Automatically builds Morphe and ReVanced APK apps after each patch release
     - [Nonstop_Audio_Only_for_Youtube_YTMusic](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic): Playing Nonstop & Audio Only on YouTube & YouTube Music
     - [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
     - …and many other tools
