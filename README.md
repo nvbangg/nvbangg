@@ -2,7 +2,12 @@
     
 # 👋 Hi there, I'm nvbangg
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=nvbangg&show_icons=true&count_private=true&theme=transparent&title_color=2f81f7&text_color=79828c&icon_color=2f81f7&border_color=79828c33&border_radius=14)](https://github.com/nvbangg)
+<a href="https://github.com/nvbangg">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=nvbangg&show=discussions_started&show_icons=true&count_private=true&border_radius=20&theme=dracula" />
+   <img src="https://github-readme-stats-fast.vercel.app/api?username=nvbangg&show=discussions_started&show_icons=true&count_private=true&border_radius=20" />
+ </picture>
+</a>
 
 ## ⭐ Star my repos if useful
 
