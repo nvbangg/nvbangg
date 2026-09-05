@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/nvbangg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1500&color=FF4F81&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+nvbangg;%E2%AD%90+Star+my+repositories+if+useful" alt="Typing SVG" /></a>
+<a href="https://github.com/nvbangg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FF4F81&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+nvbangg;%E2%AD%90+Star+my+repositories+if+useful" alt="Typing SVG" /></a>
 
 <a href="https://github.com/nvbangg">
  <picture>
