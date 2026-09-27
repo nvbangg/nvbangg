@@ -12,3 +12,17 @@
 <a href="https://github.com/nvbangg"><img src="https://streak-stats.demolab.com?user=nvbangg&theme=tokyonight-duo&hide_border=true&card_height=170" alt="GitHub Streak" /></a>
 
 </div>
+
+<details>
+<summary><h3>✨ Featured Projects</h3></summary>
+
+[![awesome-morphe](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=awesome-morphe&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/awesome-morphe)
+[![builder-for-morphe](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=builder-for-morphe&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/builder-for-morphe)
+[![Nonstop_Audio_Only_for_Youtube_YTMusic](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=Nonstop_Audio_Only_for_Youtube_YTMusic&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic)
+[![PTIT_Docs](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=PTIT_Docs&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/PTIT_Docs)
+[![Studocu-Premium-Helper](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=Studocu-Premium-Helper&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/Studocu-Premium-Helper)
+[![PTIT-Helper](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=PTIT-Helper&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/PTIT-Helper)
+[![nvbangg-scripts](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=nvbangg-scripts&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/nvbangg-scripts)
+[![KeyClipboard](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=KeyClipboard&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/KeyClipboard)
+
+</details>
