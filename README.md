@@ -1,20 +1,13 @@
 <div align="center">
 
-<a href="https://github.com/nvbangg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FF4F81&center=true&vCenter=true&width=490&lines=%F0%9F%91%8B+Hi+there%2C+I'm+nvbangg;%E2%AD%90+Star+my+repos+if+you+find+them+useful!" alt="Typing SVG" /></a>
-
-<a href="https://github.com/nvbangg">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=nvbangg&show=discussions_started%2Cdiscussions_answered&show_icons=true&border_radius=20&theme=dracula" />
-   <img src="https://github-stats-extended.vercel.app/api?username=nvbangg&show=discussions_started&show_icons=true&border_radius=20" />
- </picture>
-</a>
-
-<a href="https://github.com/nvbangg"><img src="https://streak-stats.demolab.com?user=nvbangg&theme=tokyonight-duo&hide_border=true&card_height=170" alt="GitHub Streak" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FF4F81&center=true&vCenter=true&width=490&lines=%F0%9F%91%8B+Hi+there%2C+I'm+nvbangg;%E2%AD%90+Star+my+repos+if+you+find+them+useful!)](https://github.com/nvbangg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nvbangg&show=discussions_started%2Cdiscussions_answered&show_icons=true&border_radius=20&theme_light=default&theme_dark=dracula)](https://github.com/nvbangg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nvbangg&theme=tokyonight-duo&hide_border=true&card_height=170)](https://github.com/nvbangg)
 
 </div>
 
 <details>
-<summary><h3>✨ Featured Projects</h3></summary>
+<summary><h3>✨ Featured Projects:</h3></summary>
 
 [![awesome-morphe](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=awesome-morphe&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/awesome-morphe)
 [![builder-for-morphe](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=builder-for-morphe&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/builder-for-morphe)
