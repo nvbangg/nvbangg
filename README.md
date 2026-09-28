@@ -9,7 +9,7 @@
 </div>
 
 <details>
-<summary><h3>✨ Featured Projects:</h3></summary>
+<summary><h3>🔥 Featured Projects:</h3></summary>
 
 [![awesome-morphe](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=awesome-morphe&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/awesome-morphe)
 [![builder-for-morphe](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=builder-for-morphe&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/builder-for-morphe)
