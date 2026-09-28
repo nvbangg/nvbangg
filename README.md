@@ -13,9 +13,9 @@
 
 [![awesome-morphe](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=awesome-morphe&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/awesome-morphe)
 [![builder-for-morphe](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=builder-for-morphe&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/builder-for-morphe)
-[![Nonstop_Audio_Only_for_Youtube_YTMusic](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=Nonstop_Audio_Only_for_Youtube_YTMusic&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic)
-[![PTIT_Docs](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=PTIT_Docs&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/PTIT_Docs)
-[![Studocu-Premium-Helper](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=Studocu-Premium-Helper&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/Studocu-Premium-Helper)
+[![youtube-nonstop-audio-only](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=youtube-nonstop-audio-only&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/youtube-nonstop-audio-only)
+[![PTIT-Docs](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=PTIT-Docs&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/PTIT-Docs)
+[![studocu-premium-helper](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=studocu-premium-helper&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/studocu-premium-helper)
 [![PTIT-Helper](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=PTIT-Helper&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/PTIT-Helper)
 [![nvbangg-scripts](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=nvbangg-scripts&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/nvbangg-scripts)
 [![KeyClipboard](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=KeyClipboard&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/KeyClipboard)
